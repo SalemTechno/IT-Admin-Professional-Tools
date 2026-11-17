@@ -2,8 +2,8 @@
 
 <img src="5_Screenshots_and_Assets/IT_Tools_Free_Logo.png" alt="IT Admin Professional Tools V1.0 Free Edition Logo" width="170" />
 
-# IT Admin Professional Tools V1.0 — Free Edition
-### المنظومة المتكاملة لإدارة الشبكات وأنظمة الـ Active Directory والـ IT — النسخة المجانية الرسمية
+# IT Admin Professional Tools V1.0 Free Edition
+### المنظومة المتكاملة لإدارة الشبكات وأنظمة الـ Active Directory والـ IT النسخة المجانية الرسمية
 
 [![Version](https://img.shields.io/badge/Version-V1.0%20Free%20Edition-0284c7?style=for-the-badge)](https://www.salemtechno.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20Server%20%26%20Client%20(x64%2Fx86)-1e293b?style=for-the-badge)](https://www.salemtechno.com)
