@@ -12,10 +12,6 @@
 **Architect & Lead Developer:** Eng. Mahmoud Salem | **Salem Techno IT Solutions**  
 **Phone / WhatsApp:** `+20 01000920353` (`01000920353`) | **Official Website:** [https://www.salemtechno.com](https://www.salemtechno.com)
 
----
-
-**🔑 Free Promotional Access Code (كلمة مرور تفعيل النسخة المجانية):** `Salemtechno.com`
-
 </div>
 
 ---
@@ -142,23 +138,20 @@
 
 ## 🚀 طريقة التشغيل والنشر الصامت | Quick Start & Silent Deployment
 
-### Option A — النسخة المحمولة (Portable)
+### Option A | النسخة المحمولة (Portable)
 1. حمّل وشغّل الملف:  
    `1_Portable_Edition/IT Admin Professional Tools V1.0 Free.exe` *(بصلاحية Administrator)*
-2. في شاشة الدخول اكتب كود التفعيل الترويجي المجاني:
-   ```text
-   Salemtechno.com
-   ```
+2. في شاشة الدخول اكتب كود التفعيل الترويجي المجاني الموجود أسفل هذه الصفحة في قسم **كلمة مرور التشغيل المجانية**.
 3. اضغط **Submit & Login to System**.
 
-### Option B — مُثبّت الويندوز (Setup EXE)
+### Option B | مُثبّت الويندوز (Setup EXE)
 - للتثبيت التفاعلي بالواجهة الرسومية: شغّل `2_Setup_Installer_EXE/IT_Admin_Professional_Tools_V1.0_Free_Setup.exe`
 - للتثبيت الصامت (Silent):
    ```cmd
    IT_Admin_Professional_Tools_V1.0_Free_Setup.exe /S
    ```
 
-### Option C — النشر عبر Group Policy / Intune (.MSI)
+### Option C | النشر عبر Group Policy / Intune (.MSI)
 ```cmd
 msiexec /i "IT_Admin_Professional_Tools_V1.0_Free_Setup.msi" /qn /norestart
 ```
@@ -176,6 +169,16 @@ msiexec /i "IT_Admin_Professional_Tools_V1.0_Free_Setup.msi" /qn /norestart
 
 ---
 
+## 🔑 كلمة مرور تفعيل وتشغيل النسخة المجانية | Free Edition Promotional Password
+
+لتشغيل **النسخة المجانية (Free Edition)** مباشرة عند ظهور شاشة الدخول أدخل كلمة المرور الترويجية التالية:
+
+```text
+Salemtechno.com
+```
+
+---
+
 <div align="center">
-  <sub>© 2026 Salem Techno IT Solutions — Designed & Engineered by Eng. Mahmoud Salem.</sub>
+  <sub>© 2026 Salem Techno IT Solutions. Designed & Engineered by Eng. Mahmoud Salem.</sub>
 </div>
